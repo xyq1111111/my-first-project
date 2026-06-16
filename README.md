@@ -1,2 +1,1 @@
-# my-first-project
-learn software-testing first project
+# 这是ai测试工程师的学习笔记 
